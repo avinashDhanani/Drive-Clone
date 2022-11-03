@@ -1,0 +1,20 @@
+.navBackground{
+    background-color: #dfe0ec;
+    height: 60px; 
+    width: 100%;
+    /* position:fixed; */
+}
+.logo {
+    display: inline-block;
+    position:absolute;
+    /* vertical-align: top; */
+    text-align:start;
+    
+    width: 50px;    
+    height: 50px;
+    margin-left: 30px;
+    margin-top: 5px;
+    top:0;
+    left: 20px;
+}
+

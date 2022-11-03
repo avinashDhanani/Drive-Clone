@@ -1,0 +1,24 @@
+.sidebar {
+    width: 15%;
+    background-color: hsl(0, 12%, 97%);
+    position: fixed;
+    height: 100%;   
+}
+.sidebar a {
+    display: block;
+    color: black;
+    padding: 16px;
+    text-decoration: none;
+}
+
+.sidebar a.active {
+    background-color: #04AA6D;
+    color: white;
+}
+
+
+
+.react-icons {
+    vertical-align: middle;
+    size: 10em;
+}

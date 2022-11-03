@@ -1,0 +1,14 @@
+.mainHeadingText{
+  margin-top: 10%;
+    margin-left: 10%;
+}
+.imagHeadingImage{
+  margin-top: 5%;
+  margin-left: 5%;
+}
+.mainHeading{
+  display: flex;
+}
+h1{
+  text-align: left;
+}
